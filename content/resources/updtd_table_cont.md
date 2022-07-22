@@ -5,6 +5,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/1bf206df
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: updtd_table_cont.pdf
 uid: 1bf206df-b15f-0963-97af-c979ba28bddb
 ---
 This resource includes table of contents.
-

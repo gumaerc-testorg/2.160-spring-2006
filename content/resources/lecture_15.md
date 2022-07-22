@@ -6,6 +6,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/ccdbd6af
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_15.pdf
 uid: ccdbd6af-d22c-c0b2-874d-968a76120fef
 ---
 This resource explains the topics discrete fourier transform and power spectrum, applying spectral analysis to system identification.
-

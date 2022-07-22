@@ -6,6 +6,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/825d8851
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_7.pdf
 uid: 825d8851-ab69-50ce-bfab-991c3e435f90
 ---
 This resource includes information on continuous kalman filter, and convergence analysis.
-

@@ -6,6 +6,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/b7dab05f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_11.pdf
 uid: b7dab05f-8461-509f-860e-9e01b48d67cb
 ---
 This resource includes information on times-series data compression, continuous-time laguerre series expansion, and discrete-time laguerre series expansion.
-

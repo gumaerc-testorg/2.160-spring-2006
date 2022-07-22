@@ -6,6 +6,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/d9cba810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_7_2.pdf
 uid: d9cba810-f893-379e-8fc6-c0ecb582766f
 ---
 This resource includes information on extended and linearized kalman filter, and implementation issues.
-

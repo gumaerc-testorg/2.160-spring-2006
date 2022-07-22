@@ -6,6 +6,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/5d7c37b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_8.pdf
 uid: 5d7c37b9-3786-ddb9-1cd9-13d1ab994848
 ---
 This resource includes information on linearized Kalman filter, extended Kalman filter, imlpementation issues, and relationship to Wiener filter.
-

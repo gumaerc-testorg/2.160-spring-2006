@@ -6,6 +6,7 @@ file: /courses/2-160-identification-estimation-and-learning-spring-2006/0d59b46b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_18_2.pdf
 uid: 0d59b46b-d204-f1da-3649-2bfcc11c6007
 ---
 This resource includes information informative data sets, consistency of prediction error based estimate, and frequency domain analysis of consistency.
-
