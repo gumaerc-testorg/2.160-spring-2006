@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The project section inlcudes the project topics and the requirements.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 2a7a9475-4f3f-4c21-367b-752eb0dde0b6
 ---

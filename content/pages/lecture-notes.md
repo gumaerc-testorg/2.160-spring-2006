@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The lecture notes section inlcudes the lecture notes files used in the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 31ce5c52-9cc0-9735-d43f-ed0218389c93
 ---
 
-Lecture Notes Table of Contents ([PDF]({{< baseurl >}}/resources/updtd_table_cont))
+Lecture Notes Table of Contents ({{% resource_link 1bf206df-b15f-0963-97af-c979ba28bddb "PDF" %}})
 
 Available lecture notes are listed below.
 
@@ -26,7 +31,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF 1]({{< baseurl >}}/resources/intro_edited)) ([PDF 2]({{< baseurl >}}/resources/lecture_1))
+Introduction ({{% resource_link 91db7562-bda5-3876-1193-4b41e87bdaee "PDF 1" %}}) ({{% resource_link 024038d9-62b1-e7d6-3130-fc746e03ef71 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +46,7 @@ Introduction ([PDF 1]({{< baseurl >}}/resources/intro_edited)) ([PDF 2]({{< base
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Recursive Least Square (RLS) Algorithms ([PDF]({{< baseurl >}}/resources/lecture_2))
+Recursive Least Square (RLS) Algorithms ({{% resource_link 2ada973a-6a01-7183-2baf-bb05c177fcc9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +55,7 @@ Recursive Least Square (RLS) Algorithms ([PDF]({{< baseurl >}}/resources/lecture
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of RLS ([PDF]({{< baseurl >}}/resources/lecture_3))
+Properties of RLS ({{% resource_link 0223ccdb-1348-e84e-3a5f-04fc0af46edf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +64,7 @@ Properties of RLS ([PDF]({{< baseurl >}}/resources/lecture_3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Random Processes, Active Noise Cancellation ([PDF]({{< baseurl >}}/resources/lecture_4))
+Random Processes, Active Noise Cancellation ({{% resource_link 9dfa8077-476e-4039-bda5-7b9c1a0e6e3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +73,7 @@ Random Processes, Active Noise Cancellation ([PDF]({{< baseurl >}}/resources/lec
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Discrete Kalman Filter-1 ([PDF]({{< baseurl >}}/resources/lecture_5))
+Discrete Kalman Filter-1 ({{% resource_link 52d79e15-e4d3-aa1a-dd26-41f941241070 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +82,7 @@ Discrete Kalman Filter-1 ([PDF]({{< baseurl >}}/resources/lecture_5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Discrete Kalman Filter-2 ([PDF]({{< baseurl >}}/resources/lecture_6))
+Discrete Kalman Filter-2 ({{% resource_link 5374ca7c-1c6c-42d5-0e1a-59807d00f438 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +91,7 @@ Discrete Kalman Filter-2 ([PDF]({{< baseurl >}}/resources/lecture_6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Continuous Kalman Filter ([PDF]({{< baseurl >}}/resources/lecture_7))
+Continuous Kalman Filter ({{% resource_link 825d8851-ab69-50ce-bfab-991c3e435f90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +100,7 @@ Continuous Kalman Filter ([PDF]({{< baseurl >}}/resources/lecture_7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Extended Kalman Filter ([PDF]({{< baseurl >}}/resources/lecture_8))
+Extended Kalman Filter ({{% resource_link 5d7c37b9-3786-ddb9-1cd9-13d1ab994848 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +115,7 @@ Extended Kalman Filter ([PDF]({{< baseurl >}}/resources/lecture_8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Prediction Modeling of Linear Systems ([PDF]({{< baseurl >}}/resources/lecture_9))
+Prediction Modeling of Linear Systems ({{% resource_link ea6519d6-68f1-7c0f-8438-4bf4aadd408a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +124,7 @@ Prediction Modeling of Linear Systems ([PDF]({{< baseurl >}}/resources/lecture_9
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Model Structure of Linear Time-invariant Systems ([PDF]({{< baseurl >}}/resources/lecture_10))
+Model Structure of Linear Time-invariant Systems ({{% resource_link c84c039d-7698-af33-b72b-f191bc682241 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +133,7 @@ Model Structure of Linear Time-invariant Systems ([PDF]({{< baseurl >}}/resource
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Time Series Data Compression, Laguerre Series Expansion ([PDF]({{< baseurl >}}/resources/lecture_11))
+Time Series Data Compression, Laguerre Series Expansion ({{% resource_link b7dab05f-8461-509f-860e-9e01b48d67cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +142,7 @@ Time Series Data Compression, Laguerre Series Expansion ([PDF]({{< baseurl >}}/r
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Non-linear Models, Function Approximation Theory, Radial Basis Functions ([PDF]({{< baseurl >}}/resources/lecture_12))
+Non-linear Models, Function Approximation Theory, Radial Basis Functions ({{% resource_link 83eaa728-4816-776c-e969-4a54b1cb1c7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +151,7 @@ Non-linear Models, Function Approximation Theory, Radial Basis Functions ([PDF](
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Neural Networks ([PDF]({{< baseurl >}}/resources/lecture_13))
+Neural Networks ({{% resource_link aa966024-c170-954f-ea8a-0c8f55eeea7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +160,7 @@ Neural Networks ([PDF]({{< baseurl >}}/resources/lecture_13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Error Back Propagation Algorithm ([PDF]({{< baseurl >}}/resources/lecture_14))
+Error Back Propagation Algorithm ({{% resource_link 06ffb360-0462-51db-7c67-c236a7331c55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +175,7 @@ Error Back Propagation Algorithm ([PDF]({{< baseurl >}}/resources/lecture_14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Perspective of System Identification, Frequency Domain Analysis ([PDF]({{< baseurl >}}/resources/lecture_15))
+Perspective of System Identification, Frequency Domain Analysis ({{% resource_link ccdbd6af-d22c-c0b2-874d-968a76120fef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +184,7 @@ Perspective of System Identification, Frequency Domain Analysis ([PDF]({{< baseu
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Informative Data Sets and Consistency ([PDF]({{< baseurl >}}/resources/lecture_16))
+Informative Data Sets and Consistency ({{% resource_link 12ea8ad7-befe-2885-27ba-9dd657aa0464 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +193,7 @@ Informative Data Sets and Consistency ([PDF]({{< baseurl >}}/resources/lecture_1
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Informative Experiments: Persistent Excitation ([PDF]({{< baseurl >}}/resources/lecture_17))
+Informative Experiments: Persistent Excitation ({{% resource_link a2f99084-39e4-02d9-f68f-b239e0d49748 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +202,7 @@ Informative Experiments: Persistent Excitation ([PDF]({{< baseurl >}}/resources/
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Asymptotic Distribution of Parameter Estimates ([PDF]({{< baseurl >}}/resources/lecture_18))
+Asymptotic Distribution of Parameter Estimates ({{% resource_link 65ff264f-39b2-2d8e-5301-5ce38cd93b41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +211,7 @@ Asymptotic Distribution of Parameter Estimates ([PDF]({{< baseurl >}}/resources/
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Experiment Design, Pseudo Random Binary Signals (PRBS) ([PDF]({{< baseurl >}}/resources/lecture_19))
+Experiment Design, Pseudo Random Binary Signals (PRBS) ({{% resource_link fa7602cf-93c4-7afd-c6b0-70fa549d3566 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +220,7 @@ Experiment Design, Pseudo Random Binary Signals (PRBS) ([PDF]({{< baseurl >}}/re
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Maximum Likelihood Estimate, Cramer-Rao Lower Bound and Best Unbiased Estimate ([PDF]({{< baseurl >}}/resources/lecture_20))
+Maximum Likelihood Estimate, Cramer-Rao Lower Bound and Best Unbiased Estimate ({{% resource_link cbd91572-265d-111e-f7c7-e38f80d5dda6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +229,7 @@ Maximum Likelihood Estimate, Cramer-Rao Lower Bound and Best Unbiased Estimate (
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Information Theory of System Identification: Kullback-Leibler Information Distance, Akaike's Information Criterion ([PDF]({{< baseurl >}}/resources/lecture_21))
+Information Theory of System Identification: Kullback-Leibler Information Distance, Akaike's Information Criterion ({{% resource_link 04a80ba1-2b5c-fb7d-4a67-c42ff7cb30dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
