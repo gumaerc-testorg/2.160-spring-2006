@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on parameter estimation for deterministic
   systems, and the recursive least-squares algorithm.
 file: /courses/2-160-identification-estimation-and-learning-spring-2006/2ada973a6a0171832bafbb05c177fcc9_lecture_2.pdf
+file_size: 185940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
