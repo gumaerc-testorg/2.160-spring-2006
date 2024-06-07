@@ -4,6 +4,7 @@ description: This resource includes information on kalman filtering including st
   estimation using observers, multivariate and state-space modeling random processes,
   and frame work of kalman filter.
 file: /courses/2-160-identification-estimation-and-learning-spring-2006/52d79e15e4d3aa1add2641f941241070_lecture_5.pdf
+file_size: 272472
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This resource explains the topics review of system ID theories for 
   practical requirements for input design, system ID using random signals, pseudo-random
   binary signal (PRBS), sinusoidal inputs.
 file: /courses/2-160-identification-estimation-and-learning-spring-2006/fa7602cf93c47afdc6b070fa549d3566_lecture_19.pdf
+file_size: 454755
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

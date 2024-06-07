@@ -5,6 +5,7 @@ description: This resource lists the various reference books used in the course,
   wearable sensors, cardiovascular monitoring, multi channel blind system ID, cardiovascular
   MBSI.
 file: /courses/2-160-identification-estimation-and-learning-spring-2006/91db7562bda5387611934b41e87bdaee_intro_edited.pdf
+file_size: 659247
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
