@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on continuous kalman filter, and convergence
   analysis.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/825d8851ab6950cebfab991c3e435f90_lecture_7.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/825d8851ab6950cebfab991c3e435f90_lecture_7.pdf
 file_size: 235647
 file_type: application/pdf
 learning_resource_types:
