@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes a ZIP file that contains: 13 .txt files to support
   problem set 1.'
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/19012a78917ff64c5384073ead6d6e70_ps1files.zip
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/19012a78917ff64c5384073ead6d6e70_ps1files.zip
 file_size: 3663
 file_type: application/zip
 learning_resource_types:

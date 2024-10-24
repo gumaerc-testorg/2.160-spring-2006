@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes three problems on linear stable system, one-step-ahead
   predictor, transfer function, pole of Laguerre series expansion,and Kalman filter.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/f252f27c3dea3978063b7b343fc8300b_midterm.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/f252f27c3dea3978063b7b343fc8300b_midterm.pdf
 file_size: 39459
 file_type: application/pdf
 learning_resource_types:
