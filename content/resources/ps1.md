@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on least squares estimation, calibration
   range, and recursive least-squares algorithm.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/7b093c58170418681e75153ab9ae44d5_ps1.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/7b093c58170418681e75153ab9ae44d5_ps1.pdf
 file_size: 115377
 file_type: application/pdf
 learning_resource_types:

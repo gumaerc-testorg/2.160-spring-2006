@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information maximum likelihood estimate, likelihood
   function for probabilistic models of dynamic systems, and  the Cramer-Rao lower
   bound.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/e414a5b5eb985d4561327e329775d9fa_lecture_22.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/e414a5b5eb985d4561327e329775d9fa_lecture_22.pdf
 file_size: 233115
 file_type: application/pdf
 learning_resource_types:

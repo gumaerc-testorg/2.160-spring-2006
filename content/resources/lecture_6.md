@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on kalman gain, updating the error
   covariance, and recursive calculation procedure for discrete kalman filter along
   with some questions.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/5374ca7c1c6c42d50e1a59807d00f438_lecture_6.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/5374ca7c1c6c42d50e1a59807d00f438_lecture_6.pdf
 file_size: 258238
 file_type: application/pdf
 learning_resource_types:
