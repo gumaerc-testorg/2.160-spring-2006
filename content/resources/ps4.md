@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on transfer operator function, linear
   time-invariant, single-output model, discrete-time Kalman filter, and single-input,
   single-output linear time invariant system.
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/c92e1726cd36bd64bfde64cbf7991278_ps4.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/c92e1726cd36bd64bfde64cbf7991278_ps4.pdf
 file_size: 167332
 file_type: application/pdf
 learning_resource_types:

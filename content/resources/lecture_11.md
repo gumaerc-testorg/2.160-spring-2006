@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on times-series data compression,
   continuous-time laguerre series expansion, and discrete-time laguerre series expansion.
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/b7dab05f8461509f860e9e01b48d67cb_lecture_11.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/b7dab05f8461509f860e9e01b48d67cb_lecture_11.pdf
 file_size: 214966
 file_type: application/pdf
 learning_resource_types:

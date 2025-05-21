@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/d5894d7387d4941ec5e1f6a589522a2a_lecture_24.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/d5894d7387d4941ec5e1f6a589522a2a_lecture_24.pdf
 file_size: 256484
 file_type: application/pdf
 learning_resource_types:
