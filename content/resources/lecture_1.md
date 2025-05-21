@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the topics physical modelling, system identification
   in a nutshell.
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/024038d962b1e7d63130fc746e03ef71_lecture_1.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/024038d962b1e7d63130fc746e03ef71_lecture_1.pdf
 file_size: 386452
 file_type: application/pdf
 learning_resource_types:

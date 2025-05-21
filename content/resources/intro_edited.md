@@ -4,7 +4,7 @@ description: This resource lists the various reference books used in the course,
   criteria. It also explains the topics basic engineering methodology, adaptive control,
   wearable sensors, cardiovascular monitoring, multi channel blind system ID, cardiovascular
   MBSI.
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/91db7562bda5387611934b41e87bdaee_intro_edited.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/91db7562bda5387611934b41e87bdaee_intro_edited.pdf
 file_size: 659247
 file_type: application/pdf
 learning_resource_types:

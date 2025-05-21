@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes table of contents.
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/1bf206dfb15f096397afc979ba28bddb_updtd_table_cont.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/1bf206dfb15f096397afc979ba28bddb_updtd_table_cont.pdf
 file_size: 23298
 file_type: application/pdf
 learning_resource_types:

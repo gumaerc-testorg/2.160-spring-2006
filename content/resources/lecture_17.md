@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains persistence of excitation, conditions for informative
   experiments, signal-to-noise ratio and convergence speed.
-file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/a2f9908439e402d9f68fb239e0d49748_lecture_17.pdf
+file: /courses/2-160-identification-estimation-and-learning-spring-2006/a2f9908439e402d9f68fb239e0d49748_lecture_17.pdf
 file_size: 106854
 file_type: application/pdf
 learning_resource_types:
