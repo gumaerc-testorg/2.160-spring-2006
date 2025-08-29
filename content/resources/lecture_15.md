@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the topics discrete fourier transform and power
   spectrum, applying spectral analysis to system identification.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/ccdbd6afd22cc0b2874d968a76120fef_lecture_15.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/ccdbd6afd22cc0b2874d968a76120fef_lecture_15.pdf
 file_size: 88612
 file_type: application/pdf
 learning_resource_types:
