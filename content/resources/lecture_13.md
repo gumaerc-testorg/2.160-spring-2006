@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on physiological background, stochastic
   approximation, and Multi-Layer perceptrons.
-file: /courses/2-160-identification-estimation-and-learning-spring-2006/aa966024c170954fea8a0c8f55eeea7c_lecture_13.pdf
+file: /ol-ocw-studio-app/courses/2-160-identification-estimation-and-learning-spring-2006/aa966024c170954fea8a0c8f55eeea7c_lecture_13.pdf
 file_size: 99221
 file_type: application/pdf
 learning_resource_types:
